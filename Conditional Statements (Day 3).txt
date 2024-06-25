@@ -1,0 +1,15 @@
+# Number Checker
+
+This simple Python program takes user input and checks if the input is positive, negative, or zero.
+
+## How to Use
+
+1. Make sure you have Python installed on your system.
+2. Clone this repository to your local machine.
+3. Navigate to the directory containing the `number_checker.py` file.
+4. Run the program by executing the command: `python number_checker.py`.
+5. Enter a number when prompted.
+6. The program will output whether the number is positive, negative, or zero.
+
+## Example
+
